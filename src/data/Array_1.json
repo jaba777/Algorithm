@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "body": "First Item",
+    "name": "პირველი ელემენტი"
+  },
+  {
+    "id": 2,
+    "body": "Second Item",
+    "name": "მეორე ელემენტი"
+  },
+  {
+    "id": 2,
+    "body": "Second Item",
+    "name": "მეორე ელემენტი"
+  },
+  {
+    "id": 2,
+    "body": "Second Item",
+    "name": "მეორე ელემენტი"
+  },
+  {
+    "id": 3,
+    "body": "Third Item",
+    "name": "მესამე ელემენტი"
+  },
+  {
+    "id": 4,
+    "body": "Forth Item",
+    "name": "მეოთხე ელემენტი"
+  },
+  {
+    "id": 4,
+    "body": "Forth Item",
+    "name": "მეოთხე ელემენტი"
+  },
+  {
+    "id": 5,
+    "body": "Fifth Item",
+    "name": "მეხუთე ელემენტი"
+  },
+  {
+    "id": 6,
+    "body": "Sixth Item",
+    "name": "მექვსე ელემენტი"
+  },
+  {
+    "id": 7,
+    "body": "Seventh Item",
+    "name": "მეშვიდე ელემენტი"
+  },
+  {
+    "id": 7,
+    "body": "Seventh Item",
+    "name": "მეშვიდე ელემენტი"
+  },
+  {
+    "id": 7,
+    "body": "Seventh Item",
+    "name": "მეშვიდე ელემენტი"
+  },
+  {
+    "id": 7,
+    "body": "Seventh Item",
+    "name": "მეშვიდე ელემენტი"
+  },
+  {
+    "id": 8,
+    "body": "Eighth Item",
+    "name": "მერვე ელემენტი"
+  },
+  {
+    "id": 9,
+    "body": "Ninth Item",
+    "name": "მეცხრე ელემენტი"
+  },
+  {
+    "id": 9,
+    "body": "Ninth Item",
+    "name": "მეცხრე ელემენტი"
+  },
+  {
+    "id": 10,
+    "body": "Tenth Item",
+    "name": "მეათე ელემენტი"
+  }
+]
